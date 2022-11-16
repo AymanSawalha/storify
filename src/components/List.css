@@ -1,0 +1,16 @@
+.list{
+    display:flex;
+    flex-direction: column;
+    margin-top: 8%;
+}
+#protitle {
+    margin-top: 3%;
+    margin-left: 3%;
+   
+}
+#t1{
+    font-size: xx-large;
+}
+#t2{
+    font-size: small;
+}
