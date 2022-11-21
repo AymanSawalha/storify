@@ -1,42 +1,42 @@
 [
     {
       "id": 1,
-      "compname": "ADIDAS", 
-     "email": "ADIDAS@email.com",
+      "ComName": "Jenny Chan", 
+     "email": "jenny.chan@email.com",
       "address": "3 waterfoot road",
       "phone": "333-962-7516",
-      "comptype":"clothes"
+      "Comtype":"clothes"
     },
     {
       "id": 2,
-      "compname": "wasel", 
-      "email": "wasel@email.com",
-       "address": "palestine",
+      "ComName": "Jenny Chan", 
+      "email": "jenny.chan@email.com",
+       "address": "3 waterfoot road",
        "phone": "333-962-7516",
-       "comptype":"delivery"  
+       "Comtype":"clothes"  
       },
     {
       "id": 3,
-      "compname": "Jenny lol", 
+      "ComName": "Jenny lol", 
       "email": "jenny.chan@email.com",
        "address": "3 waterfoot road",
        "phone": "333-962-7516",
-       "comptype":"clothes"   
+       "Comtype":"clothes"   
      },
     {
       "id": 4,
-      "compname": " Chan", 
+      "ComName": " Chan", 
       "email": "jenny.chan@email.com",
        "address": "3 waterfoot road",
        "phone": "333-962-7516",
-       "comptype":"clothes"
+       "Comtype":"clothes"
         },
     {
       "id": 5,
-      "compname": "Jenny pinj", 
+      "ComName": "Jenny pinj", 
       "email": "jenny.chan@email.com",
        "address": "3 waterfoot road",
        "phone": "333-962-7516",
-       "comptype":"clothes"
+       "Comtype":"clothes"
         }
   ]

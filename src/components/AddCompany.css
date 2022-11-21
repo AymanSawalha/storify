@@ -1,42 +1,4 @@
-#card-header {
-  position: relative;
-}
-.card{
-  width: 98%;
-  position: relative  ;
-  left: 1%;
-  top: 4px;
-}
-#btn {
-  position: absolute  ;
-  right: 2%;
-  top:3%;
-}
-strong {
-  color: rgb(13, 202, 240);
-}
-
-table {
-  border-collapse: collapse;
-  width: auto;
-}
-
-th {
-
-
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #DDD;
-}
-
-tr:hover {
-  background-color: rgb(121, 229, 251);
-}
-
-tbody {
-  width: auto;
-}
-
-strong {
-  color: rgb(13, 202, 240);
+#exampleModalLabel{
+    position: absolute;
+    right: 0%;
 }
